@@ -1,0 +1,8 @@
+{
+  "name": "agency-hub",
+  "version": "1.0.0",
+  "description": "D & G SFA Sales Force Automation",
+  "scripts": {
+    "build": "echo Static Site"
+  }
+}
